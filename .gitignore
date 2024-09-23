@@ -2,4 +2,4 @@
 .mypy_cache/
 .out/
 
-convolutional/bases/cat_dog_dataset.zip
+convolutional/bases/*.zip
